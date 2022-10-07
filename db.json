@@ -26,11 +26,65 @@
             "content_link": "https://www.greentechmedia.com/articles/read/climate-change-is-tightening-insurance-markets-thats-no-good-for-the-solar-industry",
             "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Orsted_Permian_Energy_Solar_Texas_Utility_Scale_XL_Credit_Orsted_721_420_80_s_c1.jpg",
             "date_updated": "March 02, 2021"
+        },
+        {
+            "id": 4,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 5,
+            "title": " Climate Fintech Startup Atmos Financial Puts Savings to Work for Clean Energy ",
+            "author": "Sylvia Beyer",
+            "content_preview": "Money doesn't just sit in savings accounts doing nothing. Banks recirculate deposited cash as loans — for cars, homes, even oil pipelines — and pay customers interest for the service.",
+            "content_link": "https://www.greentechmedia.com/articles/read/climate-fintech-startup-atmos-financial-puts-savings-to-work-for-clean-energy",
+            "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Handing_Money_XL_721_420_80_s_c1.jpg",
+            "date_updated": "March 10, 2021"
+        },
+        {
+            "id": 6,
+            "title": " Climate Change Is Tightening Insurance Markets. That’s No Good for the Solar Industry ",
+            "author": "Emma Foehringer Merchant",
+            "content_preview": "In the spring of 2019, the sky in parts of West Texas opened up, in some areas dropping hailstones as big as baseballs, according to the National Weather Service. ",
+            "content_link": "https://www.greentechmedia.com/articles/read/climate-change-is-tightening-insurance-markets-thats-no-good-for-the-solar-industry",
+            "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Orsted_Permian_Energy_Solar_Texas_Utility_Scale_XL_Credit_Orsted_721_420_80_s_c1.jpg",
+            "date_updated": "March 02, 2021"
         }
     ],
 
 
     "agriculture": [
+        {
+            "id": 1,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 2,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 3,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
         {
             "id": 1,
             "title": "Deforestation 101: Everything You Need to Know",
@@ -88,6 +142,33 @@
             "content_link": "https://www.ecowatch.com/deforestation-explained.html",
             "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
             "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 1,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 2,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 3,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
         }
     ],
 
@@ -119,11 +200,65 @@
             "content_link": "https://www.ecowatch.com/deforestation-explained.html",
             "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
             "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 1,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 2,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 3,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
         }
     ],
 
 
     "waste-management": [
+        {
+            "id": 1,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 2,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
+        {
+            "id": 3,
+            "title": "Deforestation 101: Everything You Need to Know",
+            "author": "Cristen Hemingway Jaynes",
+            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
+            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
+            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
+            "date_updated": "October 2, 2022"
+        },
         {
             "id": 1,
             "title": "Deforestation 101: Everything You Need to Know",
