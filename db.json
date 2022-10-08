@@ -29,30 +29,30 @@
         },
         {
             "id": 4,
-            "title": "Deforestation 101: Everything You Need to Know",
-            "author": "Cristen Hemingway Jaynes",
-            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
-            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
-            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
-            "date_updated": "October 2, 2022"
+            "title": "So Big It’s Boring: The Rise of Utility-Scale Solar",
+            "author": "Colin Smith",
+            "content_preview": "In 2015, I was sitting with representatives of Strata Solar, Southern Company and the Arkansas Public Service Commission, waiting to go onstage. We were the last session of the last day of the conference in question — a tough time slot. ",
+            "content_link": "https://www.greentechmedia.com/articles/read/so-big-its-boring-the-rise-of-utility-scale-solar",
+            "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Antelope_Valley_California_utility_scale_solar_XL_Shutterstock_721_420_80_s_c1.jpg",
+            "date_updated": "March 12, 2021"
         },
         {
             "id": 5,
-            "title": " Climate Fintech Startup Atmos Financial Puts Savings to Work for Clean Energy ",
-            "author": "Sylvia Beyer",
-            "content_preview": "Money doesn't just sit in savings accounts doing nothing. Banks recirculate deposited cash as loans — for cars, homes, even oil pipelines — and pay customers interest for the service.",
-            "content_link": "https://www.greentechmedia.com/articles/read/climate-fintech-startup-atmos-financial-puts-savings-to-work-for-clean-energy",
-            "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Handing_Money_XL_721_420_80_s_c1.jpg",
-            "date_updated": "March 10, 2021"
+            "title": "Will Hydrogen Look Like Solar?",
+            "author": "Stephen Lacey",
+            "content_preview": "The road to solar glory has been littered with failed companies -- the ones you may know (Solyndra) and hundreds you probably do not. Will the burgeoning hydrogen space follow a similar bumpy road? Hydrogen is at a similar phase of market and technological maturity, with similar levels of hype. ",
+            "content_link": "https://www.greentechmedia.com/articles/read/will-hydrogen-look-like-solar",
+            "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/gas_grid_hydrogen_decarbonisation_gnl_italia_xl_721_420_80_s_c1.jpg",
+            "date_updated": "September 16, 2021"
         },
         {
             "id": 6,
-            "title": " Climate Change Is Tightening Insurance Markets. That’s No Good for the Solar Industry ",
-            "author": "Emma Foehringer Merchant",
-            "content_preview": "In the spring of 2019, the sky in parts of West Texas opened up, in some areas dropping hailstones as big as baseballs, according to the National Weather Service. ",
-            "content_link": "https://www.greentechmedia.com/articles/read/climate-change-is-tightening-insurance-markets-thats-no-good-for-the-solar-industry",
-            "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Orsted_Permian_Energy_Solar_Texas_Utility_Scale_XL_Credit_Orsted_721_420_80_s_c1.jpg",
-            "date_updated": "March 02, 2021"
+            "title": " Where Green Hydrogen Is Headed ",
+            "author": "GTM Creative Strategies",
+            "content_preview": "Suddenly everyone is talking about green hydrogen. From South Africa to the United Arab Emirates. From China to Utah. Governments and developers are eyeing hydrogen as a decarbonization tool. But the rush is also raising lots of questions: Where will hydrogen be most useful? How do you create a supply chain to support it?",
+            "content_link": "https://www.greentechmedia.com/articles/read/where-green-hydrogen-is-headed",
+            "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Green_Hydrogen_XL_Credit_GTM_721_420_80_s_c1.jpg",
+            "date_updated": "October 14, 2021"
         }
     ],
 
@@ -118,12 +118,12 @@
     "transport": [
         {
             "id": 1,
-            "title": "Deforestation 101: Everything You Need to Know",
-            "author": "Cristen Hemingway Jaynes",
-            "content_preview": "Trees have been around for about 370 million years. Today, there are about three trillion trees and ten billion acres of forest on Earth. That may sound like a lot, but the planet has lost more than one billion acres of forest to deforestation since 1990.",
-            "content_link": "https://www.ecowatch.com/deforestation-explained.html",
-            "image_link": "https://cdn-fhofj.nitrocdn.com/YLARnxovRxHnoSTcLUnkvhePKVxPqkls/assets/static/optimized/rev-f03029c/wp-content/uploads/2022/10/GettyImages-80477045.jpg",
-            "date_updated": "October 2, 2022"
+            "title": " Why TransitTech Is So Vital to Struggling Public Transportation Systems ",
+            "author": "Stephen Lacey",
+            "content_preview": "Ride sharing has swept transportation systems over the last decade -- bringing convenience, but also congestion, inequities, and political fights. Now a new category of transportation networking is emerging: TransitTech.",
+            "content_link": "https://www.greentechmedia.com/articles/read/why-transittech-is-so-vital-to-public-transportation",
+            "image_link": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Screen_Shot_2021-10-10_at_5.14.31_AM_721_420_80_s_c1.jpg",
+            "date_updated": "October 10, 2021"
         },
         {
             "id": 2,
